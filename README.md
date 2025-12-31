@@ -13,7 +13,7 @@
 
 # 💫 About Me:
 
-I'm currently pursuing BSc. Engineering Degree in CSE at Khulna University of Engineering & Technology and also working as a Software Developer Intern at Algosoft Technologies Ltd. I love to learn new things and make new things which can have an impact. Because of this I have grown myself a great passion in coding!
+I'm currently pursuing BSc. Engineering Degree in CSE at Khulna University of Engineering & Technology and also working as a Junior Software Developer at Algosoft Technologies Ltd. I love to learn new things and make new things which can have an impact. Because of this I have grown myself a great passion in coding!
 
 ## 🌐 Socials:
 
